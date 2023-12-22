@@ -5,3 +5,10 @@ Benchmark: traffic_signs_recognition https://github.com/ChristopherBrix/vnncomp2
 Tool 1: https://github.com/Verified-Intelligence/alpha-beta-CROWN
 
 Tool 2: https://github.com/NeuralNetworkVerification/Marabou
+
+Echipa: 
+- Pinghireac Bogdan
+- Negurita Eduard
+- Drăgănescu Larisa
+- Negrut Andreea
+- Elber Xavier
