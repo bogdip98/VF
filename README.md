@@ -11,4 +11,3 @@ Echipa:
 - Negurita Eduard
 - Drăgănescu Larisa
 - Negrut Andreea
-- Elber Xavier
