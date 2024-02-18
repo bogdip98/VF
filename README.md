@@ -10,4 +10,3 @@ Echipa:
 - Pinghireac Bogdan
 - Negurita Eduard
 - Drăgănescu Larisa
-- Negrut Andreea
